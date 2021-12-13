@@ -1,0 +1,482 @@
+date_sold,locality,value
+2019,Abbotsford,758292
+2019,Aberfeldie,1277014
+2019,Airport West,744466
+2019,Albanvale,498572
+2019,Albert Park,2065881
+2019,Albion,461770
+2019,Alphington,1219413
+2019,Altona,836843
+2019,Altona Meadows,595759
+2019,Altona North,776987
+2019,Ardeer,609724
+2019,Armadale,1168909
+2019,Arthurs Creek,1421667
+2019,Arthurs Seat,1023000
+2019,Ascot Vale,909704
+2019,Ashburton,1552205
+2019,Ashwood,1059165
+2019,Aspendale,1023578
+2019,Aspendale Gardens,863425
+2019,Attwood,702426
+2019,Avondale Heights,831056
+2019,Avonsleigh,666362
+2019,Badger Creek,460273
+2019,Balaclava,760519
+2019,Balnarring,1240150
+2019,Balnarring Beach,3640000
+2019,Balwyn,1848094
+2019,Balwyn North,1803866
+2019,Bangholme,437500
+2019,Baxter,524258
+2019,Bayles,255000
+2019,Bayswater,651996
+2019,Bayswater North,606079
+2019,Beaconsfield,732328
+2019,Beaconsfield Upper,1029295
+2019,Beaumaris,1484063
+2019,Belgrave,645815
+2019,Belgrave Heights,734335
+2019,Belgrave South,847727
+2019,Bellfield,747685
+2019,Bend Of Islands,878667
+2019,Bentleigh,1124177
+2019,Bentleigh East,1083455
+2019,Berwick,704282
+2019,Big Pats Creek,666500
+2019,Bittern,657591
+2019,Black Rock,1524329
+2019,Blackburn,1089945
+2019,Blackburn North,996333
+2019,Blackburn South,1065239
+2019,Blairgowrie,1052708
+2019,Blind Bight,555250
+2019,Bonbeach,706176
+2019,Boronia,630762
+2019,Botanic Ridge,689487
+2019,Box Hill,819966
+2019,Box Hill North,1104637
+2019,Box Hill South,1083658
+2019,Braybrook,625470
+2019,Briar Hill,775399
+2019,Brighton,2198893
+2019,Brighton East,1654300
+2019,Broadmeadows,476997
+2019,Brookfield,464137
+2019,Brooklyn,615342
+2019,Brunswick,832285
+2019,Brunswick East,740997
+2019,Brunswick West,748221
+2019,Bulla,803333
+2019,Bulleen,1141454
+2019,Bundoora,676950
+2019,Bunyip,551796
+2019,Burnley,1257000
+2019,Burnside,641045
+2019,Burnside Heights,633500
+2019,Burwood,1035118
+2019,Burwood East,985940
+2019,Cairnlea,745550
+2019,Caldermeade,500000
+2019,Camberwell,1621367
+2019,Campbellfield,507069
+2019,Cannons Creek,586000
+2019,Canterbury,2329844
+2019,Cape Schanck,901250
+2019,Capel Sound,527482
+2019,Cardinia,770000
+2019,Carlton,570291
+2019,Carlton North,1449723
+2019,Carnegie,855077
+2019,Caroline Springs,631515
+2019,Carrum,728812
+2019,Carrum Downs,516883
+2019,Catani,498500
+2019,Caulfield,1115002
+2019,Caulfield East,688795
+2019,Caulfield North,1186028
+2019,Caulfield South,1245243
+2019,Chadstone,943240
+2019,Chelsea,773100
+2019,Chelsea Heights,706181
+2019,Cheltenham,845701
+2019,Chirnside Park,744882
+2019,Christmas Hills,932842
+2019,Chum Creek,636833
+2019,Clarinda,808478
+2019,Clayton,902616
+2019,Clayton South,716396
+2019,Clematis,655833
+2019,Clifton Hill,1098065
+2019,Clyde,545429
+2019,Clyde North,588374
+2019,Coburg,801622
+2019,Coburg North,761529
+2019,Cockatoo,632954
+2019,Coldstream,686608
+2019,Collingwood,774794
+2019,Coolaroo,445875
+2019,Cora Lynn,870000
+2019,Cottles Bridge,946000
+2019,Craigieburn,521284
+2019,Cranbourne,495989
+2019,Cranbourne East,564350
+2019,Cranbourne North,566565
+2019,Cranbourne South,850843
+2019,Cranbourne West,517369
+2019,Cremorne,1177500
+2019,Crib Point,501088
+2019,Croydon,667791
+2019,Croydon Hills,853132
+2019,Croydon North,760648
+2019,Croydon South,716068
+2019,Dallas,451413
+2019,Dandenong,461792
+2019,Dandenong North,584590
+2019,Deepdene,2627618
+2019,Deer Park,548736
+2019,Delahey,517038
+2019,Derrimut,651622
+2019,Devon Meadows,956375
+2019,Diamond Creek,771048
+2019,Diggers Rest,543372
+2019,Dingley Village,810708
+2019,Dixons Creek,1132500
+2019,Docklands,724823
+2019,Don Valley,735000
+2019,Doncaster,953435
+2019,Doncaster East,1054862
+2019,Donnybrook,533133
+2019,Donvale,1149885
+2019,Doreen,611454
+2019,Doveton,455178
+2019,Dromana,729101
+2019,Eaglemont,1549691
+2019,East Melbourne,1214908
+2019,East Warburton,514905
+2019,Eden Park,881429
+2019,Edithvale,875255
+2019,Elsternwick,1256655
+2019,Eltham,898409
+2019,Eltham North,997895
+2019,Elwood,1032877
+2019,Emerald,692816
+2019,Endeavour Hills,624318
+2019,Epping,538261
+2019,Essendon,961727
+2019,Essendon North,746500
+2019,Essendon West,1109133
+2019,Eumemmerring,465518
+2019,Eynesbury,574530
+2019,Fairfield,910023
+2019,Fawkner,612087
+2019,Ferntree Gully,659893
+2019,Ferny Creek,844096
+2019,Fingal,954667
+2019,Fitzroy,1161784
+2019,Fitzroy North,1132766
+2019,Flemington,839830
+2019,Flinders,1993107
+2019,Footscray,607988
+2019,Forest Hill,882680
+2019,Frankston,532151
+2019,Frankston North,425249
+2019,Frankston South,868404
+2019,Fraser Rise,599366
+2019,Gardenvale,1096045
+2019,Garfield,565667
+2019,Gembrook,659961
+2019,Gladstone Park,615219
+2019,Gladysdale,875000
+2019,Glen Huntly,639917
+2019,Glen Iris,1365674
+2019,Glen Waverley,1305311
+2019,Glenroy,623808
+2019,Gowanbrae,731947
+2019,Greensborough,771009
+2019,Greenvale,748505
+2019,Gruyere,1589333
+2019,Guys Hill,2010000
+2019,Hadfield,670176
+2019,Hallam,526577
+2019,Hampton,1447953
+2019,Hampton East,977574
+2019,Hampton Park,493150
+2019,Harkaway,2480400
+2019,Harkness,470231
+2019,Hastings,495970
+2019,Hawthorn,1210353
+2019,Hawthorn East,1461732
+2019,Healesville,619135
+2019,Heatherton,876027
+2019,Heathmont,843691
+2019,Heidelberg,861655
+2019,Heidelberg Heights,713720
+2019,Heidelberg West,625851
+2019,Highett,954638
+2019,Hillside,652402
+2019,Hoddles Creek,835250
+2019,Hoppers Crossing,550180
+2019,Hughesdale,972339
+2019,Huntingdale,808300
+2019,Hurstbridge,793273
+2019,Iona,793000
+2019,Ivanhoe,1062746
+2019,Ivanhoe East,1427454
+2019,Jacana,509422
+2019,Junction Village,540725
+2019,Kalkallo,537154
+2019,Kallista,829029
+2019,Kalorama,647604
+2019,Kangaroo Ground,1432019
+2019,Kealba,581912
+2019,Keilor,867209
+2019,Keilor Downs,623066
+2019,Keilor East,810001
+2019,Keilor Lodge,796000
+2019,Keilor Park,714265
+2019,Kensington,819189
+2019,Kew,1837818
+2019,Kew East,1571452
+2019,Keysborough,751130
+2019,Kilsyth,632120
+2019,Kilsyth South,805603
+2019,Kings Park,506824
+2019,Kingsbury,638661
+2019,Kingsville,743363
+2019,Knoxfield,740114
+2019,Koo Wee Rup,532476
+2019,Kooyong,1697000
+2019,Kurunjang,455802
+2019,Lalor,590323
+2019,Lang Lang East,910000
+2019,Langwarrin,615299
+2019,Langwarrin South,1308333
+2019,Launching Place,642928
+2019,Laverton,521129
+2019,Lilydale,655732
+2019,Lower Plenty,828439
+2019,Lynbrook,619312
+2019,Lyndhurst,673491
+2019,Lysterfield,1091906
+2019,Lysterfield South,991000
+2019,Macclesfield,1147500
+2019,Macleod,850912
+2019,Maidstone,647057
+2019,Main Ridge,2590000
+2019,Malvern,1677741
+2019,Malvern East,1387852
+2019,Manor Lakes,545687
+2019,Maribyrnong,741601
+2019,Maryknoll,907500
+2019,McCrae,780752
+2019,McKinnon,1216404
+2019,McMahons Creek,373000
+2019,Meadow Heights,467946
+2019,Melbourne,526584
+2019,Melton,381036
+2019,Melton South,399152
+2019,Melton West,435389
+2019,Mentone,822321
+2019,Menzies Creek,874911
+2019,Mernda,576897
+2019,Merricks,5200000
+2019,Merricks Beach,1100000
+2019,Merricks North,2555000
+2019,Mickleham,550119
+2019,Middle Park,1951136
+2019,Mill Park,641768
+2019,Millgrove,418194
+2019,Mitcham,848372
+2019,Monbulk,697188
+2019,Monomeith,1025000
+2019,Mont Albert,1214860
+2019,Mont Albert North,1236008
+2019,Montmorency,842952
+2019,Montrose,750487
+2019,Moonee Ponds,976773
+2019,Moorabbin,933157
+2019,Moorooduc,943250
+2019,Mooroolbark,666037
+2019,Mordialloc,826063
+2019,Mornington,851700
+2019,Mount Dandenong,810150
+2019,Mount Eliza,1303710
+2019,Mount Evelyn,652676
+2019,Mount Martha,1087346
+2019,Mount Toolebewong,605000
+2019,Mount Waverley,1223005
+2019,Mulgrave,839653
+2019,Murrumbeena,837197
+2019,Nar Nar Goon,638650
+2019,Nar Nar Goon North,906500
+2019,Narre Warren,575400
+2019,Narre Warren East,1925000
+2019,Narre Warren North,1222761
+2019,Narre Warren South,654563
+2019,Newport,1020235
+2019,Niddrie,897307
+2019,Noble Park,545875
+2019,Noble Park North,624896
+2019,North Melbourne,697657
+2019,North Warrandyte,1091356
+2019,Northcote,1098296
+2019,Notting Hill,597444
+2019,Nunawading,899447
+2019,Oak Park,751021
+2019,Oaklands Junction,956500
+2019,Oakleigh,937601
+2019,Oakleigh East,888771
+2019,Oakleigh South,883148
+2019,Officer,571454
+2019,Officer South,665000
+2019,Olinda,868196
+2019,Ormond,985985
+2019,Pakenham,492509
+2019,Pakenham South,887500
+2019,Pakenham Upper,840000
+2019,Panton Hill,999417
+2019,Park Orchards,1642238
+2019,Parkdale,1005630
+2019,Parkville,727161
+2019,Pascoe Vale,725687
+2019,Pascoe Vale South,915480
+2019,Patterson Lakes,871236
+2019,Pearcedale,674959
+2019,Plenty,1440604
+2019,Plumpton,435118
+2019,Point Cook,642456
+2019,Port Melbourne,1147811
+2019,Portsea,2172000
+2019,Powelltown,419400
+2019,Prahran,902583
+2019,Preston,781557
+2019,Red Hill,1560278
+2019,Red Hill South,1750000
+2019,Reefton,370000
+2019,Research,1070197
+2019,Reservoir,676645
+2019,Richmond,941313
+2019,Ringwood,728133
+2019,Ringwood East,728860
+2019,Ringwood North,897536
+2019,Ripponlea,663600
+2019,Rockbank,498202
+2019,Rosanna,917454
+2019,Rosebud,608870
+2019,Rowville,811053
+2019,Roxburgh Park,537883
+2019,Rye,764965
+2019,Safety Beach,822288
+2019,Sandhurst,818579
+2019,Sandringham,1190502
+2019,Sassafras,841542
+2019,Scoresby,783523
+2019,Seabrook,594885
+2019,Seaford,620138
+2019,Seaholme,1082261
+2019,Seddon,955128
+2019,Selby,697000
+2019,Seville,663582
+2019,Seville East,570125
+2019,Sherbrooke,1187667
+2019,Shoreham,1965000
+2019,Silvan,897243
+2019,Skye,616602
+2019,Smiths Gully,1157500
+2019,Somers,1110316
+2019,Somerville,627930
+2019,Sorrento,1861340
+2019,South Kingsville,704372
+2019,South Melbourne,935667
+2019,South Morang,625880
+2019,South Yarra,890851
+2019,Southbank,650016
+2019,Spotswood,904262
+2019,Springvale,664200
+2019,Springvale South,609058
+2019,St Albans,556073
+2019,St Andrews,926423
+2019,St Andrews Beach,1099889
+2019,St Helena,922115
+2019,St Kilda,702317
+2019,St Kilda East,799395
+2019,St Kilda West,1099170
+2019,Steels Creek,1480000
+2019,Strathewen,1440000
+2019,Strathmore,1205475
+2019,Strathmore Heights,805917
+2019,Strathtulloh,450167
+2019,Sunbury,567095
+2019,Sunshine,672926
+2019,Sunshine North,655198
+2019,Sunshine West,605841
+2019,Surrey Hills,1512131
+2019,Sydenham,534090
+2019,Tarneit,546816
+2019,Tarrawarra,2375000
+2019,Taylors Hill,719763
+2019,Taylors Lakes,781830
+2019,Tecoma,637771
+2019,Templestowe,1283205
+2019,Templestowe Lower,1055253
+2019,The Basin,696441
+2019,The Patch,902654
+2019,Thomastown,555069
+2019,Thornbury,951981
+2019,Three Bridges,690855
+2019,Toolern Vale,735667
+2019,Tooradin,782688
+2019,Toorak,2440690
+2019,Tootgarook,656228
+2019,Travancore,575592
+2019,Tremont,837500
+2019,Truganina,559256
+2019,Tullamarine,559972
+2019,Tyabb,590080
+2019,Tynong,758750
+2019,Tynong North,735000
+2019,Upper Ferntree Gully,653719
+2019,Upwey,741479
+2019,Vermont,957260
+2019,Vermont South,1167963
+2019,Viewbank,885371
+2019,Wandin East,1175000
+2019,Wandin North,690732
+2019,Wantirna,874492
+2019,Wantirna South,905236
+2019,Warburton,524806
+2019,Warneet,556188
+2019,Warrandyte,1272430
+2019,Warrandyte South,1760000
+2019,Warranwood,979769
+2019,Waterways,1209563
+2019,Watsonia,718999
+2019,Watsonia North,738169
+2019,Wattle Glen,833778
+2019,Weir Views,428759
+2019,Werribee,507508
+2019,Werribee South,650556
+2019,Wesburn,777750
+2019,West Footscray,684548
+2019,West Melbourne,781364
+2019,Westmeadows,573358
+2019,Wheelers Hill,1144209
+2019,Whittlesea,621905
+2019,Williams Landing,693089
+2019,Williamstown,1245435
+2019,Williamstown North,915250
+2019,Windsor,781357
+2019,Wollert,556043
+2019,Wonga Park,1468718
+2019,Woori Yallock,542431
+2019,Wyndham Vale,477208
+2019,Yallambie,830303
+2019,Yan Yean,955667
+2019,Yannathan,870000
+2019,Yarra Glen,719948
+2019,Yarra Junction,560934
+2019,Yarrambat,1329167
+2019,Yarraville,935340
+2019,Yellingbo,1031250
+2019,Yering,1700000

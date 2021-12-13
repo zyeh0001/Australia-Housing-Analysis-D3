@@ -1,0 +1,116 @@
+
+.axis,
+.value {
+    font: 12px sans-serif;
+    font-weight: bold;
+    fill: black;
+}
+
+.inside_value {
+    font: 20px sans-serif;
+    fill: black;
+    font-weight: bold;
+
+}
+
+.label {
+    font: 11px sans-serif;
+    font-weight: bold;
+}
+
+.axis--y path,
+.axis--y line {
+    fill: none;
+    stroke: transparent;
+}
+
+.chart-title {
+    margin-bottom: 0;
+    font-size: 20px;
+    color: #555555;
+}
+
+.source {
+    margin-top: 0;
+    font-size: 11px;
+}
+#year {
+    position: absolute;
+    /* font-weight: bold; */
+    /* right: 0%;
+    bottom: 5%; */
+    /* color: #888888; */
+    top:5%;
+    left: 60%;
+    font-size: 50px;
+    fill: black;
+    font-weight: bold;
+    stroke : white;
+    stroke-width : 1;
+}
+#replay {
+    display: none;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border: solid 2px #888888;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -o-border-radius: 100px;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+    outline: transparent;
+    z-index: inherit;
+}
+#replay::before {
+    content: "";
+    width: 4px;
+    height: 18px;
+    border-left: 2px solid #888888;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    position: absolute;
+    top: 4px;
+    left: 8px;
+}
+#replay::after {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 3px;
+    width: 14px;
+    height: 14px;
+    transform: rotate(45deg) skew(-5deg, -5deg);
+    border-top: 2px solid #888888;
+    border-right: 2px solid #888888;
+    border-radius: 5px;
+}
+#replay:hover {
+    background-color: #555555;
+}
+#replay::after:hover {
+    border-top: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+}
+
+@media screen and (max-width: 450px) {
+    .value {
+        font: 20px sans-serif;
+    }
+    .axis {
+        font: 15px sans-serif;
+    }
+    .label {
+        font: 30px sans-serif;
+        font-weight: normal;
+    }
+    .axis--x path,
+    .axis--x line {
+        fill: black;
+        stroke: black;
+    }
+}
